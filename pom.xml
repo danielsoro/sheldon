@@ -104,6 +104,7 @@
     <module>sheldon-rar</module>
     <module>sheldon-sample-ejb</module>
     <module>sheldon-sample-ear</module>
+    <module>sheldon-javamail-commands</module>
   </modules>
   <build>
     <defaultGoal>install</defaultGoal>
